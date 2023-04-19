@@ -59,8 +59,7 @@ public class BoaTest {
 
 ```
 ![image](https://user-images.githubusercontent.com/94627901/233060832-036af479-15cb-4dfd-9859-09daed33fdb7.png)
-![image](https://user-images.githubusercontent.com/94627901/233060861-9e155f02-f114-4796-b44a-f4f0dad65151.png)
-![image](https://user-images.githubusercontent.com/94627901/233060886-982b1fc2-9256-42e1-8d0b-773b3ac89deb.png)
+![image](https://user-images.githubusercontent.com/94627901/233062375-df9b091a-60d0-4c2e-824e-65f525dea679.png)
 
 
 ### Now adding new function.
